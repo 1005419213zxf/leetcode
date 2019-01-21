@@ -1,0 +1,5 @@
+/target/
+/.idea/
+/dm-bid-component.iml 
+.project
+.classpath
